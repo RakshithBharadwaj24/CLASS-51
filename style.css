@@ -1,0 +1,26 @@
+h1{
+    color : orange  
+}
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+   
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: #783264;
+    padding: 25px;
+    margin: 10px;
+}
